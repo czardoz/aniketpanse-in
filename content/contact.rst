@@ -7,7 +7,7 @@ Here's a few ways you can contact me:
 1. Email
 --------
 
-My email address is `aniketpanse@gmail.com <mailto:aniketpanse@gmail.com>`_.
+My email address is `contact@aniketpanse.in <mailto:contact@aniketpanse.in>`_.
 I may take a day or two to reply, so bear with me!
 
 2. IRC
