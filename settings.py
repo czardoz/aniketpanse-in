@@ -63,7 +63,7 @@ writer = {
 
 #: theme variables
 theme = {
-    "name": "default",
+    "name": "minute",
 
     # theme variables are defined by theme creator
     # you can access theme in template with ``theme`` namespace
