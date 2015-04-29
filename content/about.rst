@@ -18,7 +18,8 @@ About
 
 I am a developer, and love to write useful programs. You can find my work `on Github
 <https://github.com/czardoz>`_. My favorite programming languages are Python, C/C++ and Java.
-I usually work on GNU/Linux or Android platforms.
+I usually work on GNU/Linux or Android platforms. If you're looking for my resume,
+`click here </aniketcv.pdf>`_
 
 I have a strong interest in Computer Networks and Information Security. While that's not
 what I do at my day job, I think it's one of the most important problems taking a shape
