@@ -3,6 +3,7 @@ Beeswarm - Week 3
 
 :date: 2013-07-21
 :tags: beeswarm, gsoc, honeypots
+:bg: /img/bgs/gsoc-2013.png
 
 Ah a lot to talk about this time! BeeSwarm's coming along very well indeed.
 There's much improved security, with respect to the communications between the BeeKeeper

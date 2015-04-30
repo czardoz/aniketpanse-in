@@ -3,7 +3,7 @@
 
 :date: 2013-02-16
 :tags: linux, random-number-generator
-
+:bg: /img/bgs/dice.jpg
 
 
 I read about the 'devrandom' device in linux today. It's a random number

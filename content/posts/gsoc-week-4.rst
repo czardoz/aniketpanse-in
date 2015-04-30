@@ -3,6 +3,7 @@ Beeswarm - Week 4
 
 :date: 2013-07-29
 :tags: beeswarm, gsoc, honeypots
+:bg: /img/bgs/gsoc-2013.png
 
 This week was all about making the Bees (the automated sessions on the Honeypot)
 look more legit. So, at the first glance, it should be able to be convincing

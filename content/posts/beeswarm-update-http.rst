@@ -3,6 +3,7 @@ A Beeswarm Update
 
 :date: 2013-03-15
 :tags: linux, security, honeypots, networking, beeswarm
+:bg: /img/bgs/matrixlike.jpg
 
 I had started actively contributing to Beeswarm and as I had mentioned
 before I was working on adding pyFTPdlib 1.0 support. Turns out, since

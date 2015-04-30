@@ -3,6 +3,7 @@ More Kate
 
 :date: 2013-03-02
 :tags: linux, kde, Qt
+:bg: /img/bgs/kate.png
 
 
 As I said before, I'm currently playing around with Kate. I must

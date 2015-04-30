@@ -3,6 +3,7 @@ Wrapping up: Beeswarm
 
 :date: 2013-10-01
 :tags: beeswarm, gsoc, honeypots
+:bg: /img/bgs/gsoc-2013.png
 
 So the coding period of GSoC 2013 is officially over, and I want to talk
 about how far Beeswarm has come in the last five months. I think the best

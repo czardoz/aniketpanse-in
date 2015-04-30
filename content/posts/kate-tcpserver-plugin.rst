@@ -3,6 +3,7 @@ TCP Server Plugin for Kate
 
 :date: 2013-03-09
 :tags: linux, kde, Qt
+:bg: /img/bgs/kate.png
 
 
 I've been working on Kate for some time now. As I mentioned before, I

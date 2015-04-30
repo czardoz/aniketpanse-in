@@ -3,7 +3,7 @@ My Experiments with Kate
 
 :date: 2013-02-26
 :tags: linux, kde
-
+:bg: /img/bgs/kate.png
 
 Alright, so Kate (KDE Advanced Text Editor) is my new obsession.
 I basically tried to get involved by fixing a 'Junior Job', but

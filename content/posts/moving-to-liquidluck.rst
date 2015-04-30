@@ -3,6 +3,7 @@ I moved my blog!
 
 :date: 2013-05-19
 :tags: blog, web, static-blog
+:bg: /img/bgs/liquidluck.jpg
 
 Been a while since I've been active. I've been procrastinating writing
 new stuff because it was such a pain to write all my posts in pure HTML.

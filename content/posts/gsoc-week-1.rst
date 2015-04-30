@@ -3,6 +3,7 @@ Beeswarm - Week 1
 
 :date: 2013-06-25
 :tags: beeswarm, gsoc, honeypots
+:bg: /img/bgs/gsoc-2013.png
 
 
 As a part of GSoC 2013, I'm working on improving `BeeSwarm <https://github.com/honeynet/beeswarm>`_.

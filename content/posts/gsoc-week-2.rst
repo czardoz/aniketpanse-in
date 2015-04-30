@@ -3,6 +3,7 @@ Beeswarm - Week 2
 
 :date: 2013-07-05
 :tags: beeswarm, gsoc, honeypots
+:bg: /img/bgs/gsoc-2013.png
 
 A pretty quiet week, this one (I moved to a new city). We now have a POP3s capability.
 There are a few problems with the HTTPS capability, which results in SSL errors on

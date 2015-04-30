@@ -3,6 +3,7 @@ Hello World
 
 :date: 2013-02-15
 :tags: blog, web
+:bg: /img/bgs/writing.jpg
 
 For want of something to do during the holidays, I decided to start this blog.
 This is just the mandatory 'Hello World' post. Much more is yet to come.

@@ -3,6 +3,7 @@ Using Liquidluck (Felix Felicis) - Part II
 
 :date: 2013-05-23
 :tags: blog, web, static-blog, liquidluck
+:bg: /img/bgs/liquidluck.jpg
 
 This is a continuation of the `Part-I </2013/using-liquidluck.html>`_,
 of the Liquidluck tutorial. Upto this point, we have discussed the following:

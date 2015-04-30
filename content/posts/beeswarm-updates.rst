@@ -3,6 +3,7 @@ Beeswarm Updates
 
 :date: 2013-09-01
 :tags: beeswarm, gsoc, honeypots
+:bg: /img/bgs/gsoc-2013.png
 
 So Beeswarm has improved a lot over the last few weeks, and I have
 tried to summarize the changes here.
