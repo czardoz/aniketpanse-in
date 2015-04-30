@@ -1,0 +1,12 @@
+Congratulations!
+================
+
+:template: 404.html
+
+.. image:: /img/bgs/404.png
+            :align: center
+            :target: /
+
+You've found the 404 Error Page! :-D
+
+`Click here </>`_ to go back to the homepage.
