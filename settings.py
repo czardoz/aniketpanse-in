@@ -26,7 +26,7 @@ config = {
 
 
 author = {
-    "default": "czardoz",
+    "default": "Aniket",
     "vars": {}
 }
 
