@@ -1,7 +1,7 @@
 Using Liquidluck (Felix Felicis) - Part II
 ==========================================
 
-:date: 2013-05-23
+:date: 2013-06-01
 :tags: blog, web, static-blog, liquidluck
 :bg: /img/bgs/liquidluck.jpg
 
