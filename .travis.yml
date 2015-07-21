@@ -1,0 +1,26 @@
+language: python
+python:
+  - 2.7
+before_install:
+  - openssl aes-256-cbc -K $encrypted_9c5ced05c1ca_key -iv $encrypted_9c5ced05c1ca_iv -in deploy.secret.key.enc -out deploy.secret.key -d
+install:
+  - export TRAVIS_COMMIT_MSG="$(git log --format=%B --no-merges -n 1)"
+  - pip install liquidluck
+  - git config --global user.email "autocommit@aniketpanse.in"
+  - git config --global user.name "Autocommit"
+  - mkdir deploy
+  - git clone https://github.com/czardoz/czardoz.github.io.git deploy
+script:
+  - liquidluck build
+after_success:
+  - eval "$(ssh-agent)"
+  - chmod 600 ./deploy.secret.key
+  - ssh-add ./deploy.secret.key
+  - cd deploy
+  - git checkout -B master
+  - git add -A
+  - git commit --allow-empty -m "$TRAVIS_COMMIT_MSG"
+  - echo $TRAVIS_BRANCH
+  - echo $TRAVIS_PULL_REQUEST
+  - echo "Pushing changes to => " `git config --get remote.origin.url`
+  - git push git@github.com:czardoz/czardoz.github.io.git master
