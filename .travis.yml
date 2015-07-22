@@ -20,7 +20,4 @@ after_success:
   - git checkout -B master
   - git add -A
   - git commit --allow-empty -m "$TRAVIS_COMMIT_MSG"
-  - echo $TRAVIS_BRANCH
-  - echo $TRAVIS_PULL_REQUEST
-  - echo "Pushing changes to => " `git config --get remote.origin.url`
-  - git push git@github.com:czardoz/czardoz.github.io.git master
+  - if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == false ]; then echo "Pushing changes" && git push git@github.com:czardoz/czardoz.github.io.git master; fi;
