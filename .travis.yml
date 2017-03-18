@@ -12,6 +12,7 @@ install:
   - git clone https://github.com/czardoz/czardoz.github.io.git deploy
 script:
   - liquidluck build
+  - cp content/aniketcv.pdf deploy/aniketcv.pdf
 after_success:
   - eval "$(ssh-agent)"
   - chmod 600 ./deploy.secret.key
