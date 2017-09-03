@@ -13,6 +13,7 @@ install:
 script:
   - liquidluck build
   - cp content/aniketcv.pdf deploy/aniketcv.pdf
+  - cp content/aniketcv.html deploy/aniketcv.html
 after_success:
   - eval "$(ssh-agent)"
   - chmod 600 ./deploy.secret.key
